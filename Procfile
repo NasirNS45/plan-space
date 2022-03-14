@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn plan_space.wsgi
